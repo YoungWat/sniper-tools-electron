@@ -1,0 +1,19 @@
+{
+  "name": "sniper-tools-electron",
+  "version": "1.0.0",
+  "private": false,
+  "main": "src/main.js",
+  "repository": "https://github.com/YoungWat/sniper-tools-electron.git",
+  "author": "松鼠 <liuyang05@innotechx.com>",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "license": "MIT",
+  "keywords": [
+    "electron",
+    "game tools"
+  ],
+  "dependencies": {
+    "electron": "^9.0.2"
+  }
+}
