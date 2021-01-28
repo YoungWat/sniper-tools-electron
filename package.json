@@ -20,7 +20,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "electron": "^9.0.2",
+    "electron": "^9.4.0",
     "electron-packager": "^14.2.1",
     "zip-a-folder": "0.0.12"
   }
